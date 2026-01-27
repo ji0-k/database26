@@ -34,6 +34,8 @@ SQL = Structured Query Language , 구조화된 질의 언어 , 표준화된 문�
 mysql 설치를 진행한다.
 https://dev.mysql.com/downloads/mysql (LTS 버전을 설치한다.)
 mysql-8.4.8-winx64
+agree후 custom 셋업 3306사용
+next inatal, 설치완료 P42 까지 완료
 
 mysql 설치중 오류가 발생하면 vs code 라이브러리 설치
 구글 검색 : visual c++ 2015 redistributable v14 (vc_redist.x64.exe) 필요
