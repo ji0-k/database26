@@ -38,6 +38,7 @@ mysql-8.4.8-winx64
 mysql 설치중 오류가 발생하면 vs code 라이브러리 설치
 구글 검색 : visual c++ 2015 redistributable v14 (vc_redist.x64.exe) 필요
 VC_redist.x64
+https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-supported-redistributable-version
 
 mysqls 관련 프로그램을 설치한다.
 https://dev.mysql.com/downloads/workbench/
